@@ -37,4 +37,3 @@ jobs:
         uses: Factory-AI/droid-action@eval/remove-file-group-reviewer
         with:
           factory_api_key: ${{ secrets.FACTORY_API_KEY }}
-          review_model: "onyx-04-06"
