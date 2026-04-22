@@ -39,4 +39,3 @@ jobs:
           factory_api_key: ${{ secrets.FACTORY_API_KEY }}
           review_model: "gpt-5.4"
           reasoning_effort: "xhigh"
-          reasoning_effort: "low"
